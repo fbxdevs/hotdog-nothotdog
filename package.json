@@ -1,0 +1,13 @@
+{
+  "name": "hotdog-nothotdog",
+  "version": "1.0.0",
+  "description": "A simple application to showcase the power of Brain.js by replicating the functionality of Silicon Valley's Hotdog Not Hotdog app.",
+  "main": "index.js",
+  "repository": "git@github.com:fbxdevs/hotdog-nothotdog",
+  "author": "Dustin L. Dodson <dustin@attently.io>",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^1.1.2",
+    "jimp": "^0.2.28"
+  }
+}
